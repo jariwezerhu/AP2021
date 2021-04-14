@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.GameShop.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\jariw\Documents\GitHub\AP2021\GameShop\.idea\.idea.GameShop\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,6 @@
+C:\Users\jariw\Documents\GitHub\AP2021\GameShop\GameShop\bin\Debug\GameShop.exe
+C:\Users\jariw\Documents\GitHub\AP2021\GameShop\GameShop\bin\Debug\GameShop.pdb
+C:\Users\jariw\Documents\GitHub\AP2021\GameShop\GameShop\obj\Debug\GameShop.csprojAssemblyReference.cache
+C:\Users\jariw\Documents\GitHub\AP2021\GameShop\GameShop\obj\Debug\GameShop.csproj.CoreCompileInputs.cache
+C:\Users\jariw\Documents\GitHub\AP2021\GameShop\GameShop\obj\Debug\GameShop.exe
+C:\Users\jariw\Documents\GitHub\AP2021\GameShop\GameShop\obj\Debug\GameShop.pdb
