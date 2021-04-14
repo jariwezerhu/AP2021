@@ -1,0 +1,6 @@
+C:\Users\jariw\RiderProjects\Auto Verhuur\Autoverhuur\obj\Debug\Autoverhuur.csprojAssemblyReference.cache
+C:\Users\jariw\RiderProjects\Auto Verhuur\Autoverhuur\obj\Debug\Autoverhuur.csproj.CoreCompileInputs.cache
+C:\Users\jariw\RiderProjects\Auto Verhuur\Autoverhuur\obj\Debug\Auto_Verhuur.exe
+C:\Users\jariw\RiderProjects\Auto Verhuur\Autoverhuur\obj\Debug\Auto_Verhuur.pdb
+C:\Users\jariw\RiderProjects\Auto Verhuur\Autoverhuur\bin\Debug\Auto_Verhuur.exe
+C:\Users\jariw\RiderProjects\Auto Verhuur\Autoverhuur\bin\Debug\Auto_Verhuur.pdb
